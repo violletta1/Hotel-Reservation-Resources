@@ -231,6 +231,15 @@ button:hover {
     margin-right: 20px;
 }
 
+.confirm-reservation {
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    align-content: flex-end;
+    justify-content: center;
+}
+
 .thank-you {
     display: flex;
     align-items: center;
